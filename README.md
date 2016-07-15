@@ -8,6 +8,8 @@ available).
 
 ## The slipsomat script
 
+[![Join the chat at https://gitter.im/ubbdst/alma-slipsomat](https://badges.gitter.im/ubbdst/alma-slipsomat.svg)](https://gitter.im/ubbdst/alma-slipsomat?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 ### Configuration
 
 Copy `config.cfg.dist` to `config.cfg` and fill in the empty values:
